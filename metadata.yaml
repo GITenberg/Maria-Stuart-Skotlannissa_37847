@@ -1,0 +1,30 @@
+_repo: Maria-Stuart-Skotlannissa_37847
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bjørnson, Bjørnstjerne
+    aliases:
+    - Björnson, Björnstjerne
+    - Bjornson, Bjornstjerne
+    birthdate: 1832
+    deathdate: 1910
+    gutenberg_agent_id: '1772'
+    url: http://www.gutenberg.org/2009/agents/1772
+    wikipedia: http://en.wikipedia.org/wiki/Bjørnstjerne_Bjørnson
+description: ''
+gutenberg_issued: '2011-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37847'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Mary, Queen of Scots, 1542-1587 -- Drama'
+title: Maria Stuart Skotlannissa
+url: http://www.gutenberg.org/ebooks/37847
